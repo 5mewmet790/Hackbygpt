@@ -82,4 +82,4 @@ Main:CreateButton({ Name="ESP (basic)", Callback=function()
     loadstring(game:HttpGet("https://kiriot22.com/releases/ESP.lua"))()
 end })
 
-Rayfield:Notify({ Title="VIP Загружен!", Content="Функции активны, удачи, хаосщик 😈", Duration=5 })
+Rayfield:Notify({ Title="VIP Загружен!", Content="Функции активны, удачи, хаосщик", Duration=5 })
